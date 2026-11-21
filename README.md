@@ -1,5 +1,11 @@
 # makefun-csv
 
+[![make.fun bounty](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![make.fun rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/kuroma6666/makefun-csv/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![make.fun reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/kuroma6666/makefun-csv/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+
+Entry for the make.fun bounty [Read broken CSV files faster](https://make.fun/bounty/csv-reader-speed-01-run-20261121).
+
 A fast drop-in replacement for csv-reader 1.0.0, built for make.fun's
 `csv-reader-speed-01-run-20261121` bounty ("Read broken CSV files faster").
 
